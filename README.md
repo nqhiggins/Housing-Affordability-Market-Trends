@@ -15,7 +15,7 @@ This project analyzed housing affordability across 99 Iowa counties using income
 
 ## How to Run Program
 
-Download the following csv files: Iowa_Counties_FIPS.csv & "Iowa_Median_Household_Income_in_the_Past_12_Months_(ACS_5-Year_Estimates)_20251113.csv". Then open the Juypter Notebook file and hit run.
+Download the following csv files: "Iowa_Counties_FIPS.csv" & "Iowa_Median_Household_Income_in_the_Past_12_Months_(ACS_5-Year_Estimates)_20251113.csv". Then open the Juypter Notebook file and hit run.
 
 ## Files Used
 
